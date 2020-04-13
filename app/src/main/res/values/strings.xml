@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GestionArticles</string>
+    <string name="nv">NOUVEAU</string>
+    <string name="rh">RECHERCHER</string>
+    <string name="sv">Sauvegarder</string>
+    <string name="rt">Retour</string>
+    <string name="qt">Quitter</string>
+</resources>

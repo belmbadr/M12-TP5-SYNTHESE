@@ -1,0 +1,2 @@
+rootProject.name='Tp5syntheseNote'
+include ':app'
